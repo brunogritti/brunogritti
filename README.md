@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about Unit Tests on Laravel
 - ⚡ Fun fact: I also like graphic and UI design
 
-## My Company
+## My Business
 [Lavalamp Studio](https://lavalampstudio.com/)
 
 ## My Personal Portfolio
