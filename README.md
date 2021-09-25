@@ -10,6 +10,10 @@
 ## My Personal Portfolio
 [GRTT design](https://grtt.com.br/)
 
+## Packages I've published
+[endereco-via-cep](https://www.npmjs.com/package/endereco-via-cep)
+[laravel-create-vue-command](https://packagist.org/packages/brunogritti/laravel-create-vue-command)
+
 ## My Side Projects
 [Vivo Investindo](https://vivoinvestindo.com.br/) Website/Blog to help people know the importance of investing 
 
