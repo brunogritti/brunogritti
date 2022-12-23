@@ -18,4 +18,4 @@
 ## My Side Projects
 [Vivo Investindo](https://vivoinvestindo.com.br/) Website/Blog to help people know the importance of investing 
 
-[StartCourse](https://startcourse.com.br/) Website/Blog/YouTube Channel to share tips, tricks and tutorials for beginning developers
+[StartCourse](https://startcourse.com.br/) Website/Blog/YouTube Channel to share tips, tricks and tutorials for beginner developers
