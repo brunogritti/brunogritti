@@ -1,7 +1,7 @@
 ### About me
 
 - 🔭 I’m currently working with VueJS, Laravel and MySQL 
-- 🌱 I’m currently learning more about Unit Tests on Laravel
+- 🌱 I’m currently learning more about UI/UX
 - ⚡ Fun fact: Besides developing I am also passionate about motorsport and investing
 
 ## My Business
