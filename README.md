@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning more about UI/UX
 - ⚡ Fun fact: Besides developing I am also passionate about motorsport and investing
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogritti&layout=compact&langs_count=5&theme=dracula"/>
+</div>
+
 ## My Business
 [Lavalamp Studio](https://lavalampstudio.com/)
 
