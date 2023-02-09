@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogritti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogritti&layout=compact&langs_count=5&theme=dracula"/>
 </div>
-<br /><br />
+<br />
 <div>
   <img alt="Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img alt="Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
