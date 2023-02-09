@@ -5,8 +5,8 @@
 - ⚡ Fun fact: Besides developing I am also passionate about motorsport and investing
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogritti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogritti&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogritti&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogritti&layout=compact&langs_count=5&theme=transparent"/>
 </div>
 <br />
 <div>
